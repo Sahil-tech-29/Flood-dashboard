@@ -43,6 +43,13 @@ CSE Final Year | Data Analytics & Visualization Enthusiast
 📌 Connect: sahilbhardwaj2903@gmail.com
 📌 LinkedIn: https://www.linkedin.com/in/sahil-bhardwaj-24b2082b6/
 
----
+
+6. 🌍 Live Dashboard
+
+You can explore the interactive version here:  
+https://app.powerbi.com/view?r=eyJrIjoiZTI4MTdkNGMtOGQzZi00ZWE4LTg3MjctY2ZmMzhiYWFkYmE2IiwidCI6ImNhNDMwODBmLWU0YzgtNDdhNS05MGJjLWJjYWMwZDE5NzlmZiJ9
+
+
+
 
 ✅ This project shows how **Power BI can turn raw flood data into actionable insights** for decision-makers.
